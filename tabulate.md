@@ -1,0 +1,3 @@
+| Method   | Argumant                             | Informatiom                                                      | Example                                                                                                    |
+|----------|--------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| tabulate | list(body) , list(header) , tablefrm | tablefrm = "github" , "html" , "grid" , "orgtbl" , "plain" , ... | markdown = tabulate.tabulate([["AAA","aaa"],["BBB","bbb"]] , ["Name","Father Name"] , tablefrm = "github") |
