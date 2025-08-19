@@ -1,0 +1,4 @@
+- [ ] Referencing 
+- [ ] mutable & immutable 
+- [x] iterators 
+- [x] English
